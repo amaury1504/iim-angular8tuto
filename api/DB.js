@@ -1,5 +1,5 @@
 // DB.js
 
 module.exports = {
-    DB: 'mongodb://localhost:27017/ng8crud'
+    DB: 'mongodb+srv://azeaze:azeaze@cluster0-zlyue.mongodb.net/test?retryWrites=true&w=majority'
   };
